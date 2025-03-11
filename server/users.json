@@ -1,0 +1,39 @@
+{
+    "נעמי": {
+        "id": 1,
+        "password": "0534197390",
+        "games_played": 1,
+        "wins": 0,
+        "word_history": [
+            "אנטרטיקה"
+        ]
+    },
+    "מיה": {
+        "id": 2,
+        "password": "444444",
+        "games_played": 1,
+        "wins": 0,
+        "word_history": [
+            "ממשלה"
+        ]
+    },
+    "פאה": {
+        "id": 3,
+        "password": "123456",
+        "games_played": 2,
+        "wins": 0,
+        "word_history": [
+            "גד",
+            "ממשלה"
+        ]
+    },
+    "123456": {
+        "id": 4,
+        "password": "123456",
+        "games_played": 1,
+        "wins": 1,
+        "word_history": [
+            "חצאית"
+        ]
+    }
+}
